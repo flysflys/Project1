@@ -1,0 +1,14 @@
+return
+{
+	VERSION=2,
+	ORIGIN={
+		LTlt={
+			bonc=1,
+			buch=1
+		},
+	},
+	CUSTOM={
+
+	},
+}
+
